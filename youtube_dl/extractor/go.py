@@ -73,6 +73,10 @@ class GoIE(InfoExtractor):
                         }))
                     errors = entitlement.get('errors', {}).get('errors', [])
                     if errors:
+                        for error in errors:
+                            if error.get('code') == 1002:
+                                self.raise_geo_restricted(
+                                    error['message'], countries=['US'])
                         error_message = ', '.join([error['message'] for error in errors])
                         raise ExtractorError('%s said: %s' % (self.IE_NAME, error_message), expected=True)
                     asset_url += '?' + entitlement['uplynkData']['sessionKey']
