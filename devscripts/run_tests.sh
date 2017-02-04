@@ -1,6 +1,6 @@
 #!/bin/bash
 
-DOWNLOAD_TESTS_RE="test_(age_restriction|download|subtitles|write_annotations)\.py"
+DOWNLOAD_TESTS_RE="test_(age_restriction|download|subtitles|write_annotations|iqiyi_sdk_interpreter)\.py"
 
 test_set=""
 
