@@ -1,13 +1,19 @@
 #!/bin/bash
 
-DOWNLOAD_TESTS = "test_(?:download|subtitles)\.py"
+DOWNLOAD_TESTS_RE="test_(age_restriction|download|subtitles|write_annotations)\.py"
 
-if [[ $YTDL_TEST_SET == "core" ]]; then
-    test_set = "-I $DOWNLOAD_TESTS"
-elif [[ $YTDL_TEST_SET == "download" ]]; then
-    test_set = "-i $DOWNLOAD_TESTS"
-else
-    test_set = ""
-fi
+test_set=""
+
+case "$YTDL_TEST_SET" in
+    core)
+        test_set="-I $DOWNLOAD_TESTS_RE"
+    ;;
+    download)
+        test_set="-i $DOWNLOAD_TESTS_RE"
+    ;;
+    *)
+        break
+    ;;
+esac
 
 nosetests test --verbose $test_set
