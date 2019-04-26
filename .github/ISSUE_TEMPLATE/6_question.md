@@ -32,7 +32,7 @@ Carefully read and work through this check list in order to prevent the most com
 ## Question
 
 <!--
-Ask your question in an arbitrary form. Please make sure it's is worded well enough to be understood, see https://github.com/ytdl-org/youtube-dl#is-the-description-of-the-issue-itself-sufficient.
+Ask your question in an arbitrary form. Please make sure it's worded well enough to be understood, see https://github.com/ytdl-org/youtube-dl#is-the-description-of-the-issue-itself-sufficient.
 -->
 
 WRITE QUESTION HERE
