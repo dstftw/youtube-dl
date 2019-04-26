@@ -25,7 +25,7 @@ Carefully read and work through this check list in order to prevent the most com
 If it's not, see https://yt-dl.org/update on how to update. Issues with outdated version will be REJECTED.
 - Make sure that all provided video/audio/playlist URLs (if any) are alive and playable in a browser.
 - Make sure that all URLs and arguments with special characters are properly quoted or escaped as explained in https://github.com/ytdl-org/youtube-dl#video-url-contains-an-ampersand-and-im-getting-some-strange-output-1-2839-or-v-is-not-recognized-as-an-internal-or-external-command.
-- Search the bugtracker for similar issues: https://github.com/ytdl-org/youtube-dl/search?type=Issues. DO NOT post duplicates.
+- Search the bugtracker for similar issues: https://github.com/ytdl-org/youtube-dl/issues?q=is%3Aissue. DO NOT post duplicates.
 - Read bugs section in FAQ: https://github.com/ytdl-org/youtube-dl#bugs
 - Finally, put x into the all relevant boxes (like this [x])
 -->
