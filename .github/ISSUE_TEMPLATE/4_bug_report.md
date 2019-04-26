@@ -23,7 +23,7 @@ Carefully read and work through this check list in order to prevent the most com
 - Make sure that all URLs and arguments with special characters are properly quoted or escaped as explained in http://yt-dl.org/escape.
 - Search the bugtracker for similar issues: http://yt-dl.org/search-issues. DO NOT post duplicates.
 - Read bugs section in FAQ: http://yt-dl.org/reporting
-- Finally, put x into the all relevant boxes (like this [x])
+- Finally, put x into all relevant boxes (like this [x])
 -->
 
 - [ ] I'm reporting a broken site support issue
