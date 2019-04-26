@@ -1,6 +1,6 @@
 ---
 name: Broken site support
-about: Report broken or misfunctioning site extractor
+about: Report broken or misfunctioning site/extractor
 title: ''
 ---
 
