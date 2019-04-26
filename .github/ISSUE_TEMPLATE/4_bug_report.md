@@ -2,9 +2,6 @@
 name: Bug report
 about: Report a bug unrelated to any particular site or extractor
 title: ''
-labels: ''
-assignees: ''
-
 ---
 
 <!--
