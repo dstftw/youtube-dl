@@ -7,11 +7,13 @@ labels: 'request'
 
 <!--
 
-###########################################################################################
-# WARNING! IGNORING THE FOLLOWING TEMPLATE WILL RESULT IN YOUR ISSUE CLOSED AS INCOMPLETE #
-###########################################################################################
+######################################################################
+  WARNING!
+  IGNORING THE FOLLOWING TEMPLATE WILL RESULT IN ISSUE CLOSED AS INCOMPLETE
+######################################################################
 
 -->
+
 
 ## Checklist
 
