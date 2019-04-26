@@ -2,6 +2,9 @@
 name: Broken site support
 about: Report broken or misfunctioning site support
 title: ''
+labels: ''
+assignees: ''
+
 ---
 
 <!--

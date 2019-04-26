@@ -2,7 +2,9 @@
 name: Site support request
 about: Request support for a new site
 title: ''
-labels: 'site-support-request'
+labels: ''
+assignees: ''
+
 ---
 
 <!--
