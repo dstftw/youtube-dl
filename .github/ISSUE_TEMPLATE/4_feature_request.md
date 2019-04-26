@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Request a new functionality
+about: Request a new functionality unrelated to any particular site or extractor
 title: ''
 labels: 'request'
 ---
