@@ -47,7 +47,7 @@ Provide all kinds of example URLs support for which should be included. Replace 
 
 <!--
 Provide any additional information.
-If work on your issue requires account credentials please provide them or explain how one can obtain them.
+If work on QQQ issue requires account credentials please provide them or explain how one can obtain them.
 -->
 
 WRITE DESCRIPTION HERE
