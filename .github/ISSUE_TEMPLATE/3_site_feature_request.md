@@ -19,7 +19,7 @@ title: ''
 <!--
 Carefully read and work through this check list in order to prevent the most common mistakes and misuse of youtube-dl:
 - First of, make sure you are using the latest version of youtube-dl. Run `youtube-dl --version` and ensure your version is 2019.04.24. If it's not, see https://yt-dl.org/update on how to update. Issues with outdated version will be REJECTED.
-- Search the bugtracker for similar site feature requests: https://github.com/ytdl-org/youtube-dl/issues?q=is%3Aissue. DO NOT post duplicates.
+- Search the bugtracker for similar site feature requests: http://yt-dl.org/search-issues. DO NOT post duplicates.
 - Finally, put x into the all relevant boxes (like this [x])
 -->
 
