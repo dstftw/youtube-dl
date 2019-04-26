@@ -1,6 +1,6 @@
 ---
 name: Broken site support
-about: Report broken or misfunctioning site support issue
+about: Report broken or misfunctioning site
 title: ''
 ---
 
