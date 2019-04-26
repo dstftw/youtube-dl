@@ -26,7 +26,7 @@ Carefully read and work through this check list in order to prevent the most com
 
 - [ ] I'm asking a question
 - [ ] I've looked through the README and FAQ for similar questions
-- [ ] I've searched the bugtracker for similar issues including closed ones
+- [ ] I've searched the bugtracker for similar questions including closed ones
 
 
 ## Question
