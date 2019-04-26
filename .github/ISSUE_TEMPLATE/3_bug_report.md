@@ -2,18 +2,17 @@
 name: Bug report
 about: Report a bug unrelated to any particular site or extractor
 title: ''
-labels: ''
-assignees: ''
-
 ---
 
 <!--
 
-###########################################################################################
-# WARNING! IGNORING THE FOLLOWING TEMPLATE WILL RESULT IN YOUR ISSUE CLOSED AS INCOMPLETE #
-###########################################################################################
+######################################################################
+  WARNING!
+  IGNORING THE FOLLOWING TEMPLATE WILL RESULT IN ISSUE CLOSED AS INCOMPLETE
+######################################################################
 
 -->
+
 
 ## Checklist
 
