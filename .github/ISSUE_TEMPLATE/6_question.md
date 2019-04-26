@@ -18,7 +18,7 @@ labels: 'question'
 ## Checklist
 
 <!--
-Carefully read and work through this check list in order to prevent the most common mistakes and misusage:
+Carefully read and work through this check list in order to prevent the most common mistakes and misuse ot youtube-dl:
 - Look through the README (https://github.com/ytdl-org/youtube-dl/blob/master/README.md) and FAQ (https://github.com/ytdl-org/youtube-dl#faq) for a similar questions
 - Search the bugtracker for similar question: https://github.com/ytdl-org/youtube-dl/issues?q=is%3Aissue
 - Finally, put x into the all relevant boxes (like this [x])
