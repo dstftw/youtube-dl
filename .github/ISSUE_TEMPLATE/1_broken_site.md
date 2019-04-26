@@ -25,7 +25,7 @@ Carefully read and work through this check list in order to prevent the most com
 - Finally, put x into the all relevant boxes (like this [x])
 -->
 
-- [ ] I'm reporting a broken site support issue
+- [ ] I'm reporting a broken site support
 - [ ] I've verified that I'm running youtube-dl version **2019.04.24**
 - [ ] I've checked that all provided URLs are alive and playable in a browser
 - [ ] I've checked that all URLs and arguments with special characters are properly quoted or escaped
