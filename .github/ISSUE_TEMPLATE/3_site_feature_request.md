@@ -17,7 +17,7 @@ title: ''
 ## Checklist
 
 <!--
-Carefully read and work through this check list in order to prevent the most common mistakes and misusage:
+Carefully read and work through this check list in order to prevent the most common mistakes and misuse ot youtube-dl:
 - First of, make sure you are using the latest version of youtube-dl. Run `youtube-dl --version` and ensure your version is 2019.04.24.
 If it's not, see https://yt-dl.org/update on how to update. Issues with outdated version will be REJECTED.
 - Search the bugtracker for similar site feature requests: https://github.com/ytdl-org/youtube-dl/issues?q=is%3Aissue. DO NOT post duplicates.
