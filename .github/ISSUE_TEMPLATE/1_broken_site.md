@@ -56,7 +56,7 @@ PASTE VERBOSE LOG HERE
 ## Description
 
 <!--
-Provide an explanation of your issue in an arbitrary form. Please make sure the description is worded well enough to be understood, see https://github.com/ytdl-org/youtube-dl#is-the-description-of-the-issue-itself-sufficient. Provide any additional information, suggested solution and as much context and examples as possible.
+Provide an explanation of your issue in an arbitrary form. Provide any additional information, suggested solution and as much context and examples as possible.
 If work on your issue requires account credentials please provide them or explain how one can obtain them.
 -->
 
