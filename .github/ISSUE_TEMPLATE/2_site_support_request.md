@@ -22,7 +22,7 @@ Carefully read and work through this check list in order to prevent the most com
 - Make sure that all provided video/audio/playlist URLs (if any) are alive and playable in a browser.
 - Make sure that site you are requesting is not dedicated to copyright infringement, see https://yt-dl.org/copyright-infringement. youtube-dl does not support such sites. In order for site support request to be accepted all provided example URLs should not violate any copyrights.
 - Search the bugtracker for similar site support requests: http://yt-dl.org/search-issues. DO NOT post duplicates.
-- Finally, put x into the all relevant boxes (like this [x])
+- Finally, put x into all relevant boxes (like this [x])
 -->
 
 - [ ] I'm reporting a new site support request
