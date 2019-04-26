@@ -20,7 +20,7 @@ assignees: ''
 ## Checklist
 
 <!--
-Carefully read and work through this check list in order to prevent the most common mistakes and misusage:
+Carefully read and work through this check list in order to prevent the most common mistakes and misusage ot youtube-dl:
 - First of, make sure you are using the latest version of youtube-dl. Run `youtube-dl --version` and ensure your version is 2019.04.24.
 If it's not, see https://yt-dl.org/update on how to update. Issues with outdated version will be REJECTED.
 - Make sure that all provided video/audio/playlist URLs (if any) are alive and playable in a browser.
