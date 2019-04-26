@@ -34,7 +34,7 @@ If it's not, see https://yt-dl.org/update on how to update. Issues with outdated
 ## Verbose log
 
 <!--
-Provide the full verbose output of youtube-dl that clearly demonstrates the problem.
+Provide the complete verbose output of youtube-dl that clearly demonstrates the problem.
 Add the `-v` flag to your command line you run youtube-dl with (`youtube-dl -v <your command line>`), copy the WHOLE output and insert it below. It should look similar to this:
  [debug] System config: []
  [debug] User config: []
