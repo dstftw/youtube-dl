@@ -2,9 +2,7 @@
 name: Ask question
 about: Ask youtube-dl related question
 title: ''
-labels: question
-assignees: ''
-
+labels: 'question'
 ---
 
 <!--
