@@ -21,7 +21,7 @@ Carefully read and work through this check list in order to prevent the most com
 - First of, make sure you are using the latest version of youtube-dl. Run `youtube-dl --version` and ensure your version is 2019.04.24. If it's not, see https://yt-dl.org/update on how to update. Issues with outdated version will be REJECTED.
 - Make sure that all provided video/audio/playlist URLs (if any) are alive and playable in a browser.
 - Make sure that all URLs and arguments with special characters are properly quoted or escaped as explained in http://yt-dl.org/escape.
-- Search the bugtracker for similar issues: https://github.com/ytdl-org/youtube-dl/search?type=Issues. DO NOT post duplicates.
+- Search the bugtracker for similar issues: http://yt-dl.org/search-issues. DO NOT post duplicates.
 - Finally, put x into the all relevant boxes (like this [x])
 -->
 
