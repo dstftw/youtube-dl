@@ -64,7 +64,7 @@ class CanvasIE(InfoExtractor):
                 video_id, 'Downloading video JSON', fatal=False, query={
                     'vrtPlayerToken': token,
                     'client': '%s@PROD' % site_id,
-                }, expected_status=400)
+                },  expected_status=400)
             message = data.get('message')
             if message and not data.get('title'):
                 if data.get('code') == 'AUTHENTICATION_REQUIRED':
